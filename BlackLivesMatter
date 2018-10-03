@@ -1,0 +1,775 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" type="text/css" href="style.css">
+
+  <meta charset="UTF-8">
+  <title>Super Duper Chat</title>
+</head>
+<body>
+<div class="container" id="mainChat">
+
+
+        <div class="message-section">
+            <div class="message-section-text">ჩემი მიმოწერები</div>
+        </div>
+
+        <div class="name-of-messenger">
+            <div class="name-of-messenger-text">დონალდ დაქ ტრამპი</div>
+        </div>
+  <div class="chat-friends">
+      <div class="friend-elements fixed">
+          <div class="friend-icon"></div>
+          <div>
+              <div class="message-user-name">სატესტო მეგობარი</div>
+              <div class="last-message-sent">ბოლო შეტყობინება</div>
+          </div>
+      </div>
+      <div class="friend-elements">
+          <div class="friend-icon"></div>
+          <div>
+              <div class="message-user-name">სატესტო მეგობარი</div>
+              <div class="last-message-sent">ბოლო შეტყობინება</div>
+          </div>
+      </div>
+      <div class="friend-elements">
+          <div class="friend-icon"></div>
+          <div>
+              <div class="message-user-name">სატესტო მეგობარი</div>
+              <div class="last-message-sent">ბოლო შეტყობინება</div>
+          </div>
+      </div>
+      <div class="friend-elements">
+          <div class="friend-icon"></div>
+          <div>
+              <div class="message-user-name">სატესტო მეგობარი</div>
+              <div class="last-message-sent">ბოლო შეტყობინება</div>
+          </div>
+      </div>
+      <div class="friend-elements">
+          <div class="friend-icon"></div>
+          <div>
+              <div class="message-user-name">სატესტო მეგობარი</div>
+              <div class="last-message-sent">ბოლო შეტყობინება</div>
+          </div>
+      </div>
+      <div class="friend-elements">
+          <div class="friend-icon"></div>
+          <div>
+              <div class="message-user-name">სატესტო მეგობარი</div>
+              <div class="last-message-sent">ბოლო შეტყობინება</div>
+          </div>
+      </div>
+      <div class="friend-elements">
+          <div class="friend-icon"></div>
+          <div>
+              <div class="message-user-name">სატესტო მეგობარი</div>
+              <div class="last-message-sent">ბოლო შეტყობინება</div>
+          </div>
+      </div>
+      <div class="friend-elements">
+          <div class="friend-icon"></div>
+          <div>
+              <div class="message-user-name">სატესტო მეგობარი</div>
+              <div class="last-message-sent">ბოლო შეტყობინება</div>
+          </div>
+      </div>
+      <div class="friend-elements">
+          <div class="friend-icon"></div>
+          <div>
+              <div class="message-user-name">სატესტო მეგობარი</div>
+              <div class="last-message-sent">ბოლო შეტყობინება</div>
+          </div>
+      </div>
+
+  </div>
+  <div class="chat">
+
+      <div class="flex-left message-container">
+          <div class="message left-message">როგორ ხარ?</div>
+      </div>
+      <div class="flex-right message-container">
+          <div class="message right-message">რავი შენ?</div>
+      </div>
+      <div class="flex-left message-container">
+          <div class="message left-message">არამიშავს რა</div>
+      </div>
+      <div class="flex-right message-container">
+          <div class="message right-message">დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი</div>
+      </div>
+      <div class="flex-right message-container">
+          <div class="message right-message">დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი</div>
+      </div>
+      <div class="flex-right message-container">
+          <div class="message right-message">დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი</div>
+      </div>
+      <div class="flex-left message-container">
+          <div class="message left-message">დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი</div>
+      </div>
+      <div class="flex-right message-container">
+          <div class="message right-message">დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი</div>
+      </div>
+      <div class="flex-left message-container">
+          <div class="message left-message">დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი</div>
+      </div>
+      <div class="flex-right message-container">
+          <div class="message right-message">დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი</div>
+      </div>
+      <div class="flex-right message-container">
+          <div class="message right-message">დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი</div>
+      </div>
+      <div class="flex-right message-container">
+          <div class="message right-message">დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი დიდი ტექსტი</div>
+      </div>
+
+  </div>
+  <div class="new-message">
+
+        <div class="new-message-btn">
+            <div class="message-icon"></div>
+            <div class="message-text">ახალი მიმოწერა</div>
+        </div>
+
+  </div>
+  <div class="message-area">
+      <input type="text" name="message-box" class="message-box" placeholder="დაიწყე მიმოწერა...">
+      <div class="message-button">
+          <input type="button" name="message-button" value="გაგზავნა" class="send-button">
+      </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+<div class="modal modalId" id="modalIdLogin">
+    <div class="modal-content">
+        <div class="wrap-login">
+            <form>
+							<span class="title">
+								ავტორიზაცია
+							</span>
+
+                <div class="wrap-input">
+                    <input class="input" type="text" name="email" placeholder="ნომერი" autocomplete="off">
+                </div>
+
+                <div class="wrap-input rs1 input-2" >
+                    <input class="input" type="password" name="pass" placeholder="პაროლი">
+                </div>
+
+                <div class="container-btn">
+                    <button class="btn">
+                        შესვლა
+                    </button>
+                </div>
+
+
+
+                <div class="text-center">
+								<span class="txt1">
+									არ გაქვთ ექაუნთი?
+								</span>
+
+                    <a href="#" class="txt2 hov1" id="loginTransferButton">
+                        დარეგისტრირდით
+                    </a>
+                </div>
+            </form>
+        </div>
+
+    </div>
+
+
+</div>
+
+<div class="modal modal-id" id="modalIdRegister">
+    <div class="modal-content">
+        <div class="wrap-login">
+            <form>
+							<span class="title">
+								რეგისტრაცია
+							</span>
+
+                <div class="wrap-input">
+                    <input class="input" type="text" name="email" placeholder="ნომერი" autocomplete="off">
+                </div>
+
+                <div class="wrap-input rs1 input-2" >
+                    <input class="input" type="password" name="pass1" placeholder="პაროლი">
+                </div>
+
+                <div class="wrap-input rs1 input-2" >
+                    <input class="input" type="password" name="pass2" placeholder="თავიდან შეიყვანეთ პაროლი">
+                </div>
+
+
+                <div class="container-btn">
+                    <button class="btn">
+                        რეგისტრაცია
+                    </button>
+                </div>
+
+
+
+                <div class="text-center">
+								<span class="txt1">
+									გაქვთ ექაუნთი?
+								</span>
+
+                    <a href="#" class="txt2 hov1" id="registerTransferButton" >
+                        გაიარეთ ავტორიზაცია
+                    </a>
+                </div>
+
+
+            </form>
+        </div>
+
+    </div>
+
+
+</div>
+
+
+<script>
+    console.log(123);
+    var mainChat = document.getElementById("mainChat");
+    mainChat.style.display = "none";
+    var mainLogin = document.getElementById("modalIdLogin");
+    mainLogin.style.display = "none";
+    var mainRegister = document.getElementById("modalIdRegister");
+    mainRegister.style.display = "flex";
+
+   
+   </script>
+
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+
+
+@font-face {
+    font-family: bogFontBold;
+    src: url('./fonts/MarkGEO-Bold.woff');
+}
+
+@font-face {
+    font-family: bogFontCapsBold;
+    src: url('./fonts/MarkGEOCAPS-Bold.woff');
+}
+
+@font-face {
+    font-family: bogFontCapsLight;
+    src: url('./fonts/MarkGEOCAPS-Light.woff');
+}
+
+@font-face {
+    font-family: bogFontCapsSemiBold;
+    src: url('./fonts/MarkGEOCAPS-SemiBold.woff');
+}
+@font-face {
+    font-family: bogFontRegular;
+    src: url('./fonts/MarkGEO-Regular.woff');
+}
+
+
+
+
+
+.container {
+    display: grid;
+    grid-template-areas:
+    'message-section name-of-messenger name-of-messenger name-of-messenger name-of-messenger'
+    'chat-friends chat chat chat chat'
+    'new-message message-area message-area message-area message-area';
+    grid-template-rows: 70px 600px 100px;
+
+    border: 1px solid lightgray;
+}
+.message-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    grid-area: message-section;
+    border-right: 0.2px solid lightgray;
+
+}
+.name-of-messenger{
+    grid-area: name-of-messenger;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-bottom: 0.5px solid lightgray;}
+
+.message-section-text{
+
+    font-size: 24px;
+    font-family: bogFontCapsLight;
+    border-bottom: 0.5px solid lightgrey;
+}
+.name-of-messenger-text{
+    font-size: 35px;
+    font-family: bogFontCapsSemiBold;
+}
+
+.chat-friends{
+    overflow-y: scroll;
+    display: grid;
+    grid-area: chat-friends;
+    border-right: 1px solid lightgray;
+    grid-auto-rows: 80px;
+    grid-auto-columns: 270px;
+    grid-template-columns: repeat(auto-fit, auto);
+    background-color: #ededed;
+}
+
+.chat{
+    grid-area: chat;
+    overflow-y: scroll;
+}
+
+.message-area{
+    display: grid;
+    grid-template-areas: 'message-box message-box message-box message-box message-button';
+    grid-area: message-area;
+    border-top: 2px solid lightgray;
+
+}
+
+.message-box{
+    grid-area: message-box;
+    font-size: 25px;
+    font-family: bogFontCapsSemiBold;
+    background-color: #ededed;
+    border: none;
+    padding-left: 10px;
+
+}
+
+.message-box:focus{
+    outline: none;
+}
+
+.message-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    grid-area: message-button;
+    background-color: #ededed;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+
+
+
+}
+
+
+.flex-right{
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+
+
+.flex-left{
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+.message{
+    max-width: 40%;
+    padding: 5px;
+    border-radius: 7px;
+
+    background-color: lightblue;
+    font-family: bogFontRegular;
+    word-break: break-all
+
+
+}
+.left-message{
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    background-color: #E8E8E8;
+    transition: 1s;
+}
+
+.right-message{
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    transition: 1s;
+
+}
+.left-message:hover{
+    background-color: #aaaaaa;
+}
+.right-message:hover{
+    background-color: #53a7bc;
+}
+
+.message-container{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    box-sizing: border-box;
+}
+
+.new-message{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    grid-area: new-message;
+    background-color: #eae5e5;
+
+}
+
+.new-message-btn{
+    padding: 7px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-radius: 40px;
+    background-color: white;
+    -webkit-box-shadow: 0px 0px 42px -11px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 42px -11px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 42px -11px rgba(0,0,0,0.75);
+    transition: 0.5s;
+
+
+}
+.message-icon{
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    margin-top: 5px;
+    padding-right: 10px;
+    padding-top: 2px;
+    background-image: url('./assets/message-icon.png');
+    background-size: cover;
+}
+.message-text{
+
+    display: inline-block;
+    font-size: 15px;
+    padding-bottom: 2px;
+    font-family: bogFontCapsBold;
+}
+
+.new-message-btn:hover{
+    background-color: #F47920;
+}
+
+.message-user-name{
+
+    display: inline-block;
+    font-size: 16px;
+    color: grey;
+    font-family: bogFontBold;
+
+}
+.last-message-sent{
+    padding-top: 5px;
+    display: inline-block;
+    font-size: 13px;
+    color: black;
+    font-family: bogFontCapsLight;
+}
+
+.friend-icon{
+    display: inline-block;
+    background-image: url('./assets/bog-logo.svg');
+    background-size: cover;
+    padding-right: 24px;
+    width: 40px;
+    height: 40px;
+
+
+}
+
+.friend-elements{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid lightgray;
+
+
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
+.friend-elements:hover{
+    background-color: #d6c5c5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.input {
+    outline: none;
+    border: none;
+}
+
+
+.btn {
+    outline: none !important;
+    border: none;
+    background: transparent;
+}
+
+.btn:hover {
+    cursor: pointer;
+}
+
+
+.txt1 {
+    font-family: bogFontCapsSemiBold;
+    font-size: 15px;
+    line-height: 1.4;
+    color: #999999;
+}
+
+.txt2 {
+    font-family: bogFontCapsSemiBold;
+    font-size: 15px;
+    line-height: 1.4;
+    color: #4272d7;
+}
+
+.hov1:hover {
+    text-decoration: underline;
+}
+
+
+.wrap-login {
+    padding-left: 55px;
+    padding-right: 55px;
+    padding-top: 65px;
+    padding-bottom: 50px;
+    width: 500px;
+    background: #E8E8E8;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+}
+.title {
+    padding-bottom: 33px;
+    display: block;
+    font-family: bogFontCapsSemiBold;
+    font-size: 35px;
+    color: #333A56;
+    line-height: 1.2;
+    text-align: center;
+}
+.wrap-input {
+    width: 100%;
+    position: relative;
+    background-color: #E8E8E8;
+    border: 1px solid lightgray;
+
+}
+
+
+.input {
+    width: 480px;
+    height: 68px;
+    padding: 0 10px 0 10px;
+    font-size: 22px;
+    background-color: #E8E8E8;
+
+
+
+}
+.container-btn {
+    padding-top: 20px;
+    width: 100%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+}
+.btn {
+
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+    width: 100%;
+    height: 60px;
+    background-color: #F47920;
+    font-family: bogFontCapsSemiBold;
+    font-size: 14px;
+    color: #fff;
+    line-height: 1.2;
+    text-transform: uppercase;
+    -webkit-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    transition: all 0.4s;
+}
+
+.btn:hover {
+    background-color: #333333;
+}
+.input{
+    font-family: bogFontCapsSemiBold;
+}
+
+
+
+.text-center{
+    padding-top: 45px;
+    padding-bottom: 4px;
+    text-align: center;
+
+}
+
+
+
+.modal{
+
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    position: fixed;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+
+}
+.modal-id{
+    display: none;
+    animation-name: modalOpen;
+    animation-duration: 1s;
+}
+
+@keyframes modalOpen{
+    from{opacity: 0;}
+    to{opacity: 1;}
+}
+
+
+@media screen and (max-width: 540px) {
+    .wrap-login{
+        width: 300px;
+    }
+    .input{
+        width: 250px;
+    }
+}
+
+.input-2{
+    margin-top: 5px;
+}
+
+@media screen and (max-width: 300px) {
+    .wrap-login{
+        width: 200px;
+    }
+    .input{
+        width: 170px;
+    }
+}
+
+.container{
+    display: grid;
+}
+
+.send-button{
+    height: 60px;
+    width: 200px;
+    border-radius: 70px;
+    border: none;
+    background-color: white;
+    font-size: 23px;
+    -webkit-box-shadow: 0px 0px 42px -11px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 42px -11px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 42px -11px rgba(0,0,0,0.75);
+    font-family: bogFontCapsBold;
+    transition: 0.5s;
+}
+
+.send-button:hover{
+    background-color: #F47920;
+}
+
+.send-button:focus{
+    outline: none;
+}
+
+
+
+
+
+
+
